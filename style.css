@@ -1,0 +1,35 @@
+*{
+       margin: 0;
+       padding: 0;
+}
+header{
+        background-color: black;
+        font-size: 48px;
+        width: 100%;
+        height: 100px;
+        background-position: center;
+        font-family: "Bebas Neue", sans-serif;
+        }
+main{
+       background-image: url(https://i.pinimg.com/736x/41/c0/11/41c011825b6fde1644d6434c898ec4f1.jpg);   
+       height: 100vh;
+       background-size: cover;
+       background-color: #333
+
+}
+footer{
+       background-color: aqua;
+       background-position: center;
+        width: 100%;
+        size: 100%;
+}
+
+footer>p{
+       text-align: center;
+       width: 100%;
+       size: 100px;
+       
+}
+main>p{
+  color: #5eff00;    
+  height: 100vh;}
